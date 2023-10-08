@@ -1,45 +1,44 @@
-# Projet P3 - Camelote
+# Project P3 - Camelote
 
 ## Introduction
-Ce projet est le projet P3 de l'étudiant Bruno Oosta. Son but est de créer un jeu de A à Z en utilisant l'APK de Google Maps pour Unity.
-Le jeu créé est nommé Camelote.
+This project is student Bruno Oosta's P3 project. Its goal is to create a game from A to Z using the Google Maps SDK for Unity. The created game is named Camelote.
 
-## Arborescence
-- Camelote (Dossier du projet Unity)
-	- Assets (Tout le contenu du programme)
-		- Castle 1 LITE (Prefabs utilisés pour le château)
-		- GoogleMaps (APK de GoogleMaps)
-		- Graphics (Images et autres)
-		- Materials (Tous les matériels de l'application)
-		- Models (Les modèles 3D)
-		- Prefabs (Les prefabs de l'application)
-		- Resources (Dossier ressource pour élément important devant être charger au lancement)
-		- Scenes (Toutes les scènes de l'application)
-		- Scripts (Tous les scripts de l'application)
-		- UI (Toutes les interfaces graphiques de l'application)
-- Database (Dossier contenant tous les scripts PHP communiquant avec la base de données, et le fichier sql formant la base)
-	- Scripts (Scripts PHP)
-	- camelote.sql (Script sql de la base de données)
-- Packages Unity pour Google Maps
+## Directory Structure
+- Camelote (Unity project folder)
+	- Assets (All program content)
+		- Castle 1 LITE (Prefabs used for the castle)
+		- GoogleMaps (Google Maps SDK)
+		- Graphics (Images and other assets)
+		- Materials (All application materials)
+		- Models (3D models)
+		- Prefabs (Application prefabs)
+		- Resources (Resource folder for important items to be loaded at startup)
+		- Scenes (All application scenes)
+		- Scripts (All application scripts)
+		- UI (All graphical interfaces of the application)
+- Database (Folder containing all PHP scripts communicating with the database and the SQL file forming the database)
+	- Scripts (PHP scripts)
+	- camelote.sql (SQL script for the database)
+- Unity Packages for Google Maps
 
-## Logiciels et bibliothèques utilisés
-- Moteur de rendu Unity - Build Version 2021.2.7f1
-- GoogleMaps SDK
+## Software and Libraries Used
+- Unity Rendering Engine - Build Version 2021.2.7f1
+- Google Maps SDK
 - UI Toolkit
-- PhP - Version PHP 7.2.24-0ubuntu0.18.04.10
-- PhPMyAdmin - Version 5.7.36-0ubuntu0.18.04.1
+- PHP - PHP Version 7.2.24-0ubuntu0.18.04.10
+- PHPMyAdmin - Version 5.7.36-0ubuntu0.18.04.1
 
 ## Installation
-Pour installer l'application Camelote, il faut en premier lieu brancher un téléphone android à l'ordinateur (Via un câble USB ou  USB-C).
+To install the Camelote application, first connect an Android phone to the computer (via a USB or USB-C cable).
 
-Ensuite, il faut aller dans Unity :
+Next, follow these steps in Unity:
 - File
 - Build Settings
 - Build And Run
 
-Finalement, il suffit d'attendre que le build se termine, et utiliser l'application sur le téléphone précédemment branché.
+Finally, wait for the build to complete and use the application on the previously connected phone.
 
-## Étudiant et enseignant
-[Bruno Costa](https://gitlab-etu.ing.he-arc.ch/bruno.costa)
+## Student and Teacher
+- [Bruno Costa](https://github.com/Psemata)
+- Julien Senn
 
-[Julien Senn](https://gitlab-etu.ing.he-arc.ch/julien.senn)
