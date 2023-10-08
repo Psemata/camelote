@@ -41,4 +41,5 @@ Finalement, il suffit d'attendre que le build se termine, et utiliser l'applicat
 
 ## Étudiant et enseignant
 [Bruno Costa](https://gitlab-etu.ing.he-arc.ch/bruno.costa)
+
 [Julien Senn](https://gitlab-etu.ing.he-arc.ch/julien.senn)
