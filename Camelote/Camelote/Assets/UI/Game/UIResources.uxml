@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <UIResources style="height: 100%;">
+        <ui:VisualElement name="resources-ui-holder" style="height: 100%; -unity-background-image-tint-color: rgb(255, 255, 255); background-color: rgb(124, 124, 124);">
+            <ui:VisualElement name="title-holder" style="align-items: center; flex-direction: row; justify-content: center; height: 10%;">
+                <ui:Button text="&lt;" display-tooltip-when-elided="true" name="back-button" style="background-color: rgba(88, 88, 88, 0); border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0); font-size: 15%; margin-top: 0; margin-bottom: 0; margin-right: 0; padding-right: 6px; position: absolute; left: 8%; top: 20%; right: auto;" />
+                <ui:Label text="Resources" display-tooltip-when-elided="true" name="resources-title" style="font-size: 10%; align-items: stretch; margin-top: 10%; margin-bottom: 5%;" />
+            </ui:VisualElement>
+            <ui:ListView focusable="true" name="resources-list" fixed-item-height="10" style="height: 80%;" />
+        </ui:VisualElement>
+    </UIResources>
+</ui:UXML>

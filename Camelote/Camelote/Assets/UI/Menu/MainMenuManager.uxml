@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="StartInterface" src="StartInterface.uxml" />
+    <ui:Template name="LoginInterface" src="LoginInterface.uxml" />
+    <ui:Template name="RegisterInterface" src="RegisterInterface.uxml" />
+    <Style src="/Assets/UI/StyleSheets/main-menu-manager.uss" />
+    <MainMenuManager style="position: absolute; left: 0; top: 0; right: 0; bottom: 0;">
+        <ui:Instance template="StartInterface" name="StartInterface" class="screen" style="display: flex;" />
+        <ui:Instance template="LoginInterface" name="LoginInterface" class="screen" style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; display: none;" />
+        <ui:Instance template="RegisterInterface" name="RegisterInterface" class="screen" style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; display: none;" />
+    </MainMenuManager>
+</ui:UXML>

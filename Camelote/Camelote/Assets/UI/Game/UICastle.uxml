@@ -1,0 +1,19 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <UICastle style="width: 100%; height: 100%;">
+        <ui:VisualElement name="label-holder" style="height: 80%; font-size: 30%; flex-grow: 0; flex-basis: auto; -unity-text-align: upper-right; margin-top: 0; margin-right: 0; padding-right: 8%; padding-top: 14%; top: auto; color: rgb(255, 255, 255);">
+            <ui:Label text="Blé : 0/200" display-tooltip-when-elided="true" name="wheat-label" style="margin-top: 0; margin-bottom: 0; color: rgb(255, 255, 255); flex-direction: column; align-items: flex-start; font-size: 10%; -unity-text-outline-width: 0; text-shadow: 1px 1px 0 rgb(0, 0, 0);" />
+            <ui:Label text="Fer : 0/200" display-tooltip-when-elided="true" name="iron-label" style="color: rgb(255, 255, 255); font-size: 10%; -unity-text-outline-width: 0; text-shadow: 1px 1px 0 rgb(0, 0, 0);" />
+            <ui:Label text="Pierre : 0/200" display-tooltip-when-elided="true" name="stone-label" style="color: rgb(255, 255, 255); font-size: 10%; -unity-text-outline-width: 0; text-shadow: 1px 1px 0 rgb(0, 0, 0);" />
+            <ui:Label text="Nourriture : 0/200" display-tooltip-when-elided="true" name="food-label" style="color: rgb(255, 255, 255); font-size: 10%; -unity-text-outline-width: 0; text-shadow: 1px 1px 0 rgb(0, 0, 0);" />
+            <ui:Label text="Bois : 0/200" display-tooltip-when-elided="true" name="wood-label" style="color: rgb(255, 255, 255); font-size: 10%; -unity-text-outline-width: 0; text-shadow: 1px 1px 0 rgb(0, 0, 0);" />
+            <ui:Label text="Or : 0/200" display-tooltip-when-elided="true" name="gold-label" style="color: rgb(255, 255, 255); font-size: 10%; -unity-text-outline-width: 0; text-shadow: 1px 1px 0 rgb(0, 0, 0);" />
+        </ui:VisualElement>
+        <ui:VisualElement name="button-holder" tabindex="25" style="position: absolute; left: 5%; top: 5%;">
+            <ui:Button text="&lt;" display-tooltip-when-elided="true" name="back-button" style="font-size: 10%; padding-right: 3%; padding-left: 3%; padding-bottom: 2%; padding-top: 2%;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="upgrade-holder" style="height: 20%; width: 100%; flex-direction: column-reverse; position: absolute; left: 0; top: 80%;">
+            <ui:Button text="Upgrade" display-tooltip-when-elided="true" name="upgrade-button" style="height: 20%; font-size: 10%; margin-left: 20px; margin-right: 20px; margin-top: 10px; margin-bottom: 10px; bottom: 27px;" />
+            <ui:Label text="Not enough resources" display-tooltip-when-elided="true" name="error-label" style="font-size: 10%; color: rgb(255, 0, 0); margin-bottom: 37px; align-items: stretch; -unity-text-align: upper-center; display: none;" />
+        </ui:VisualElement>
+    </UICastle>
+</ui:UXML>

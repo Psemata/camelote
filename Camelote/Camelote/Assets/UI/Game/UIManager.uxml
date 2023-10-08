@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="UIClosed" src="project://database/Assets/UI/Game/UIClosed.uxml?fileID=9197481963319205126&amp;guid=e55c433bd4bf072418fcf027bfd407af&amp;type=3#UIClosed" />
+    <ui:Template name="UIOpen" src="project://database/Assets/UI/Game/UIOpen.uxml?fileID=9197481963319205126&amp;guid=51c48b1c5282e2a4da4f7647e06e99fc&amp;type=3#UIOpen" />
+    <ui:Template name="UIResources" src="project://database/Assets/UI/Game/UIResources.uxml?fileID=9197481963319205126&amp;guid=d06e6aab6c8c5804791905650b388994&amp;type=3#UIResources" />
+    <ui:Template name="UIInteraction" src="project://database/Assets/UI/Game/UIInteraction.uxml?fileID=9197481963319205126&amp;guid=6816dd545f41fb04ab054f35174c0ecf&amp;type=3#UIInteraction" />
+    <UIManager style="position: absolute; left: 0; top: 0; right: 0; bottom: 0;">
+        <ui:Instance template="UIClosed" name="UIClosed" style="position: absolute; left: 0; top: 0; right: 0; bottom: 0;" />
+        <ui:Instance template="UIOpen" name="UIOpen" style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; display: none;" />
+        <ui:Instance template="UIResources" name="UIResources" style="display: none; position: absolute; left: 0; top: 0; right: 0; bottom: 0;" />
+        <ui:Instance template="UIInteraction" name="UIInteraction" style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; display: none;" />
+    </UIManager>
+</ui:UXML>

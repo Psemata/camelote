@@ -1,0 +1,437 @@
+{
+    "m_SelectedDeviceId": "R5CR200M1CZ",
+    "m_SelectedPackage": {
+        "deviceId": "R5CR200M1CZ",
+        "name": "com.DefaultCompany.Camelote",
+        "processId": 11805,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "ad07160320639472c8",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 16975,
+            "exited": true
+        },
+        {
+            "deviceId": "ad07160320639472c8",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 14170,
+            "exited": true
+        },
+        {
+            "deviceId": "ad07160320639472c8",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 25219,
+            "exited": true
+        },
+        {
+            "deviceId": "ad07160320639472c8",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 27204,
+            "exited": true
+        },
+        {
+            "deviceId": "ad07160320639472c8",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 29329,
+            "exited": true
+        },
+        {
+            "deviceId": "ad07160320639472c8",
+            "name": "com.sec.android.app.launcher",
+            "processId": 4310,
+            "exited": false
+        },
+        {
+            "deviceId": "ad07160320639472c8",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 24734,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 12109,
+            "exited": true
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 12929,
+            "exited": true
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 13623,
+            "exited": true
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 14338,
+            "exited": true
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 15022,
+            "exited": true
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 15737,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 16554,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 17788,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 18608,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 19265,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 20042,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 20745,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 21491,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 22255,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 22859,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 23542,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 24325,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 25001,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 25640,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 26428,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 27404,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 28092,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 31586,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 994,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 2469,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 5604,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 6782,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 7606,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 9291,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 10208,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 11105,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 12800,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 14021,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 15353,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 17051,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 19676,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 22910,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 23865,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 24644,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 25508,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 27002,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 28786,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 30233,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 31184,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 532,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 2376,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 6464,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 8338,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 9495,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 10393,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 11342,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 5475,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 6614,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 5574,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CR200M1CZ",
+            "name": "com.DefaultCompany.Camelote",
+            "processId": 11805,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

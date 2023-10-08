@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="resource-holder" style="font-size: 50px; flex-direction: row; justify-content: space-between; padding-left: 5%; padding-right: 5%;">
+        <ui:Label text="Name" display-tooltip-when-elided="true" name="name-label" style="color: rgb(0, 0, 0); font-size: 10%;" />
+        <ui:Label text="Quantity" display-tooltip-when-elided="true" name="quantity-label" style="color: rgb(0, 0, 0); font-size: 10%;" />
+    </ui:VisualElement>
+</ui:UXML>

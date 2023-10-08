@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="ui-button-holder" style="width: 100%; height: 100%; align-items: center;">
+        <ui:Button display-tooltip-when-elided="true" name="ui-opener" style="bottom: auto; top: 85%; width: 10%; height: 5%; background-color: rgba(88, 88, 88, 0); background-image: url(&apos;project://database/Assets/Graphics/shield.png?fileID=2800000&amp;guid=928b6f048d3349a4a8fc7257de75b478&amp;type=3#shield&apos;); border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0);" />
+    </ui:VisualElement>
+</ui:UXML>

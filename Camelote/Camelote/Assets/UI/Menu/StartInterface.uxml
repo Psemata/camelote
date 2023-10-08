@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/StyleSheets/menu.uss?fileID=7433441132597879392&amp;guid=efcd844aad2ee9a41b7561869a05b851&amp;type=3#menu" />
+    <ui:VisualElement name="menu-center-panel" class="menu-center-panel">
+        <ui:Label text="Camelote" display-tooltip-when-elided="true" name="game-title" style="font-size: 35%; margin-bottom: 20%;" />
+        <ui:Button text="Login" display-tooltip-when-elided="true" name="login-button" focusable="false" style="min-width: 125px; height: 5%; font-size: 10%; margin-top: 10%; margin-bottom: 5%; width: 20%;" />
+        <ui:Button text="Register" display-tooltip-when-elided="true" name="register-button" focusable="false" style="width: 20%; height: 5%; margin-bottom: 5%; font-size: 10%; margin-top: 10%; min-width: 125px;" />
+    </ui:VisualElement>
+    <ui:Label text="Bruno Costa - 2021/2022 - HE-Arc - Tous droits réservés" display-tooltip-when-elided="true" name="about-label" class="about" style="font-size: 7%;" />
+    <ui:Label display-tooltip-when-elided="true" name="he-arc-logo" style="font-size: 8%; background-image: url(&apos;project://database/Assets/Graphics/logo_ing.png?fileID=2800000&amp;guid=0d2a1a6f3b630764590149add4779527&amp;type=3#logo_ing&apos;); width: 15%; height: 5%; padding-left: 50%; padding-bottom: 10%; padding-right: 0; margin-left: 9%; margin-bottom: 5px;" />
+</ui:UXML>

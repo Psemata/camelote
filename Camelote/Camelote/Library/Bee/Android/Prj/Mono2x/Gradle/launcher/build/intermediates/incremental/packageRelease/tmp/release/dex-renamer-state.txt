@@ -1,0 +1,4 @@
+#Thu Jan 27 15:55:01 CET 2022
+base.0=C\:\\Users\\bruno.costa\\Desktop\\P3Camelote\\camelote\\Camelote\\Camelote\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
